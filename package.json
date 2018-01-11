@@ -1,0 +1,13 @@
+{
+  "name": "log-exception",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "sentryurl":"http://ef3cd7e371c44665813c80cfad78bd81:5cadb35548db432f8e3d917423033aaa@47.93.161.2:9000/2",
+  "dependencies": {
+    "raven": "^2.3.0"
+  },
+  "scripts": {
+    "start":"node app"
+  }
+}
